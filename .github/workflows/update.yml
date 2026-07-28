@@ -1,0 +1,35 @@
+name: Panel Guncelle
+on:
+  schedule:
+    - cron: '0 * * * *'      # her saat basi (UTC) — bulutta, PC gerekmeden
+  workflow_dispatch:          # elle calistirma butonu
+permissions:
+  contents: write
+concurrency:
+  group: panel-update
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: windows-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Panelleri uret (bulut modu)
+        shell: powershell
+        run: |
+          .\panel-guncelle.ps1 -Cloud -NoOpen
+          .\kripto-panel.ps1 -Cloud -NoOpen
+      - name: Yayinla
+        shell: powershell
+        run: |
+          git config user.name "panel-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html kripto.html ozet.json kripto-fiyat.json
+          $c = git status --porcelain
+          if ($c) {
+            git commit -m ("panel " + (Get-Date -Format 'yyyy-MM-dd HH:mm'))
+            git push
+            Write-Host "yayinlandi"
+          } else {
+            Write-Host "degisiklik yok"
+          }
