@@ -1,19 +1,19 @@
 ﻿{
-    "updated":  "2026-07-28 12:10:07",
+    "updated":  "2026-07-28 15:27:02",
     "portfolio":  {
-                      "maliyet":  798036.77,
-                      "deger":  745976.05,
-                      "totalTL":  -52060.72,
-                      "totalPct":  -6.52,
-                      "dayTL":  -6122.38,
-                      "dayPct":  -0.81
+                      "maliyet":  2318268.11,
+                      "deger":  2557032.59,
+                      "totalTL":  238764.48,
+                      "totalPct":  10.3,
+                      "dayTL":  -5810.29,
+                      "dayPct":  -0.23
                   },
     "prices":  [
                    {
                        "code":  "KCHOL",
-                       "price":  196.6,
+                       "price":  196.8,
                        "prev":  196.699997,
-                       "changePct":  -0.05
+                       "changePct":  0.05
                    },
                    {
                        "code":  "THYAO",
@@ -23,21 +23,57 @@
                    },
                    {
                        "code":  "SAHOL",
-                       "price":  87.1,
+                       "price":  87.15,
                        "prev":  87.099998,
-                       "changePct":  0
+                       "changePct":  0.06
+                   },
+                   {
+                       "code":  "DFI",
+                       "price":  5.252409,
+                       "prev":  5.243938,
+                       "changePct":  0.16
+                   },
+                   {
+                       "code":  "GTL",
+                       "price":  0.131235,
+                       "prev":  0.131082,
+                       "changePct":  0.12
+                   },
+                   {
+                       "code":  "PHE",
+                       "price":  3.938124,
+                       "prev":  3.935875,
+                       "changePct":  0.06
+                   },
+                   {
+                       "code":  "YAY",
+                       "price":  1728.679342,
+                       "prev":  1758.37106,
+                       "changePct":  -1.69
+                   },
+                   {
+                       "code":  "JET",
+                       "price":  2.272318,
+                       "prev":  2.272119,
+                       "changePct":  0.01
+                   },
+                   {
+                       "code":  "DTZ",
+                       "price":  5.063896,
+                       "prev":  5.066533,
+                       "changePct":  -0.05
                    },
                    {
                        "code":  "ALTIN",
-                       "price":  6132.29,
+                       "price":  6133.07,
                        "prev":  6202.892169,
-                       "changePct":  -1.14
+                       "changePct":  -1.13
                    },
                    {
                        "code":  "GUMUS",
-                       "price":  87.70,
+                       "price":  87.64,
                        "prev":  89.015956,
-                       "changePct":  -1.48
+                       "changePct":  -1.54
                    },
                    {
                        "code":  "DMLKT",
