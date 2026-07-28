@@ -1,31 +1,31 @@
 ﻿{
-    "updated":  "2026-07-28 15:27:02",
+    "updated":  "2026-07-28 15:38:55",
     "portfolio":  {
                       "maliyet":  2318268.11,
-                      "deger":  2557032.59,
-                      "totalTL":  238764.48,
-                      "totalPct":  10.3,
-                      "dayTL":  -5810.29,
-                      "dayPct":  -0.23
+                      "deger":  2557294.31,
+                      "totalTL":  239026.2,
+                      "totalPct":  10.31,
+                      "dayTL":  -5548.58,
+                      "dayPct":  -0.22
                   },
     "prices":  [
                    {
                        "code":  "KCHOL",
-                       "price":  196.8,
+                       "price":  196.4,
                        "prev":  196.699997,
-                       "changePct":  0.05
+                       "changePct":  -0.15
                    },
                    {
                        "code":  "THYAO",
-                       "price":  320.75,
+                       "price":  319.75,
                        "prev":  318,
-                       "changePct":  0.86
+                       "changePct":  0.55
                    },
                    {
                        "code":  "SAHOL",
-                       "price":  87.15,
+                       "price":  86.9,
                        "prev":  87.099998,
-                       "changePct":  0.06
+                       "changePct":  -0.23
                    },
                    {
                        "code":  "DFI",
@@ -65,15 +65,15 @@
                    },
                    {
                        "code":  "ALTIN",
-                       "price":  6133.07,
+                       "price":  6143.18,
                        "prev":  6202.892169,
-                       "changePct":  -1.13
+                       "changePct":  -0.96
                    },
                    {
                        "code":  "GUMUS",
-                       "price":  87.64,
+                       "price":  87.59,
                        "prev":  89.015956,
-                       "changePct":  -1.54
+                       "changePct":  -1.60
                    },
                    {
                        "code":  "DMLKT",
