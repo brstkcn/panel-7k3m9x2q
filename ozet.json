@@ -1,19 +1,19 @@
 ﻿{
-    "updated":  "2026-07-29 12:46:21",
+    "updated":  "2026-07-29 12:54:13",
     "portfolio":  {
                       "maliyet":  2318268.11,
-                      "deger":  2557889.68,
-                      "totalTL":  239621.57,
+                      "deger":  2557963.86,
+                      "totalTL":  239695.75,
                       "totalPct":  10.34,
-                      "dayTL":  1258.56,
+                      "dayTL":  1332.74,
                       "dayPct":  0.05
                   },
     "prices":  [
                    {
                        "code":  "KCHOL",
-                       "price":  196.9,
+                       "price":  196.4,
                        "prev":  195,
-                       "changePct":  0.97
+                       "changePct":  0.72
                    },
                    {
                        "code":  "THYAO",
@@ -23,9 +23,9 @@
                    },
                    {
                        "code":  "SAHOL",
-                       "price":  86.65,
+                       "price":  86.7,
                        "prev":  87.349998,
-                       "changePct":  -0.8
+                       "changePct":  -0.74
                    },
                    {
                        "code":  "DFI",
@@ -65,15 +65,15 @@
                    },
                    {
                        "code":  "ALTIN",
-                       "price":  6235.96,
+                       "price":  6236.81,
                        "prev":  6145.178825,
-                       "changePct":  1.48
+                       "changePct":  1.49
                    },
                    {
                        "code":  "GUMUS",
-                       "price":  88.47,
+                       "price":  88.52,
                        "prev":  87.231913,
-                       "changePct":  1.42
+                       "changePct":  1.47
                    },
                    {
                        "code":  "DMLKT",
