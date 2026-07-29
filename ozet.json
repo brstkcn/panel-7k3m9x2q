@@ -1,19 +1,19 @@
 ﻿{
-    "updated":  "2026-07-29 12:38:28",
+    "updated":  "2026-07-29 12:43:49",
     "portfolio":  {
                       "maliyet":  2318268.11,
-                      "deger":  2557880.3,
-                      "totalTL":  239612.19,
-                      "totalPct":  10.34,
-                      "dayTL":  1249.19,
+                      "deger":  2557821.71,
+                      "totalTL":  239553.6,
+                      "totalPct":  10.33,
+                      "dayTL":  1190.59,
                       "dayPct":  0.05
                   },
     "prices":  [
                    {
                        "code":  "KCHOL",
-                       "price":  196.6,
+                       "price":  196.8,
                        "prev":  195,
-                       "changePct":  0.82
+                       "changePct":  0.92
                    },
                    {
                        "code":  "THYAO",
@@ -23,9 +23,9 @@
                    },
                    {
                        "code":  "SAHOL",
-                       "price":  86.7,
+                       "price":  86.6,
                        "prev":  87.349998,
-                       "changePct":  -0.74
+                       "changePct":  -0.86
                    },
                    {
                        "code":  "DFI",
@@ -65,15 +65,15 @@
                    },
                    {
                        "code":  "ALTIN",
-                       "price":  6236.75,
+                       "price":  6236.33,
                        "prev":  6145.178825,
-                       "changePct":  1.49
+                       "changePct":  1.48
                    },
                    {
                        "code":  "GUMUS",
-                       "price":  88.47,
+                       "price":  88.45,
                        "prev":  87.231913,
-                       "changePct":  1.42
+                       "changePct":  1.40
                    },
                    {
                        "code":  "DMLKT",
