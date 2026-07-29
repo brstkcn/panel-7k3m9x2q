@@ -1,11 +1,11 @@
 ﻿{
-    "updated":  "2026-07-29 12:43:49",
+    "updated":  "2026-07-29 12:44:05",
     "portfolio":  {
                       "maliyet":  2318268.11,
-                      "deger":  2557821.71,
-                      "totalTL":  239553.6,
-                      "totalPct":  10.33,
-                      "dayTL":  1190.59,
+                      "deger":  2557948.72,
+                      "totalTL":  239680.61,
+                      "totalPct":  10.34,
+                      "dayTL":  1317.6,
                       "dayPct":  0.05
                   },
     "prices":  [
@@ -65,15 +65,15 @@
                    },
                    {
                        "code":  "ALTIN",
-                       "price":  6236.33,
+                       "price":  6237.32,
                        "prev":  6145.178825,
-                       "changePct":  1.48
+                       "changePct":  1.50
                    },
                    {
                        "code":  "GUMUS",
-                       "price":  88.45,
+                       "price":  88.49,
                        "prev":  87.231913,
-                       "changePct":  1.40
+                       "changePct":  1.44
                    },
                    {
                        "code":  "DMLKT",
