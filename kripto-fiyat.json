@@ -1,70 +1,70 @@
 ﻿{
-    "updated":  "2026-08-21 08:05:28",
-    "usdtry":  47.8799,
+    "updated":  "2026-08-21 10:15:30",
+    "usdtry":  48.06,
     "bitfinex":  [
                      {
                          "coin":  "ETH",
-                         "usd":  2377.2,
-                         "changePct24h":  4.07
+                         "usd":  2404.2,
+                         "changePct24h":  5.08
                      },
                      {
                          "coin":  "BTC",
-                         "usd":  76655,
-                         "changePct24h":  7.06
+                         "usd":  78149,
+                         "changePct24h":  8.46
                      },
                      {
                          "coin":  "USDT",
-                         "usd":  1.0001,
-                         "changePct24h":  -0.01
+                         "usd":  1.0006,
+                         "changePct24h":  0.04
                      },
                      {
                          "coin":  "SOL",
-                         "usd":  90.641,
-                         "changePct24h":  3.41
+                         "usd":  91.409,
+                         "changePct24h":  4.51
                      }
                  ],
     "btcturk":  [
                     {
                         "pair":  "BTCTRY",
-                        "last":  3648359,
-                        "changePct24h":  9.66
+                        "last":  3722164,
+                        "changePct24h":  8.47
                     },
                     {
                         "pair":  "ETHTRY",
-                        "last":  113111,
-                        "changePct24h":  5.6
+                        "last":  114571,
+                        "changePct24h":  5.02
                     },
                     {
                         "pair":  "USDTTRY",
-                        "last":  47.604,
-                        "changePct24h":  -0.16
+                        "last":  47.698,
+                        "changePct24h":  0.08
                     },
                     {
                         "pair":  "BTCUSDT",
-                        "last":  76663,
-                        "changePct24h":  9.72
+                        "last":  78026,
+                        "changePct24h":  8.36
                     },
                     {
                         "pair":  "ETHUSDT",
-                        "last":  2377.9,
-                        "changePct24h":  5.34
+                        "last":  2401.7,
+                        "changePct24h":  4.96
                     },
                     {
                         "pair":  "SOLTRY",
-                        "last":  4314.02,
-                        "changePct24h":  5.03
+                        "last":  4352.92,
+                        "changePct24h":  4.36
                     },
                     {
                         "pair":  "SOLUSDT",
-                        "last":  90.61,
-                        "changePct24h":  4.82
+                        "last":  91.34,
+                        "changePct24h":  4.36
                     }
                 ],
     "portfolio":  {
-                      "degerUSD":  5164.35,
-                      "degerTRY":  247268.56,
-                      "cipadanPct":  36.31,
-                      "gunlukPct":  4.05
+                      "degerUSD":  5222.78,
+                      "degerTRY":  251006.81,
+                      "cipadanPct":  37.85,
+                      "gunlukPct":  5.05
                   },
     "errors":  [
 
